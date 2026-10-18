@@ -1,0 +1,50 @@
+{
+    "name":  "prompt-shelf",
+    "logo":  "📚",
+    "exe":  "PromptShelf.exe",
+    "desc":  "Free, open-source prompt library for Windows — tags, search, variable fill-in and one-key copy. 100 MB portable, offline, no account, MIT.",
+    "topics":  [
+                   "prompt-library",
+                   "prompt-manager",
+                   "local-ai",
+                   "llm",
+                   "snippets",
+                   "knowledge-base",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "full-text-search",
+                   "tags",
+                   "clipboard",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Local SQLite library** — thousands of prompts stored in one portable file that travels with you",
+                     "✅ **Instant full-text search** — results appear as you type across titles, bodies and tags",
+                     "✅ **Variable fill-in** — press copy on a templated prompt and a small dialog collects the values first",
+                     "✅ **Tags and folders** — color tags, nested folders and favorites for the ten prompts you really use",
+                     "✅ **Global hotkey palette** — summon search over any app, hit enter, prompt is on the clipboard",
+                     "✅ **Import and export** — JSON and Markdown round-trip so the library is never locked in",
+                     "✅ **100 MB self-contained exe** — runtime bundled, portable, offline, MIT with SHA-256 releases"
+                 ],
+    "compare":  [
+                    "| Feature | **prompt-shelf** | Notion | Text Blaze | Prompt managers online |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free tier | Paid | Free accounts |",
+                    "| Open source | **Yes** | No | No | No |",
+                    "| Offline local library | **Yes** | Partial | Yes | No syncs online",
+                    "| Variable fill-in on copy | **Yes** | No | Yes | Partial",
+                    "| Global hotkey palette | **Yes** | No | Yes paid | No",
+                    "| Portable, no install | **Yes, 100 MB** | App | App | Browser"
+                ],
+    "faqQ":  "best way to organize prompts for local LLMs offline?",
+    "faqA":  "Pasting prompts into notes apps means they stay buried, and web managers want an account and a connection. prompt-shelf keeps everything in a local searchable database with tags, variable fill-in and a system-wide hotkey palette. It is a 100 MB portable exe, MIT, with JSON export if you ever outgrow it.",
+    "s1":  "Dark shelf (#121417, indigo #818CF8): prompt list left with color tags, preview pane right showing a template with highlighted {{variables}}, search bar active.",
+    "s2":  "Hotkey palette floating over a desktop: search box reading write, five matching prompts listed with tag chips, enter to copy hint in footer.",
+    "s3":  "Variable dialog after copy: three fields for audience, tone and length, fill and copy button, toast reading prompt copied with 214 characters."
+}
